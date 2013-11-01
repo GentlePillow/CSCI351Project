@@ -1,0 +1,52 @@
+body {
+	background: #f3f2f3;
+	color: #000000;
+	font-family: Trebuchet MS, Arial, Times New Roman;
+	font-size: 12px;
+}
+
+#wrapper {
+	background-color:transparent;
+	margin: 2% auto;
+	width: 80%;
+	height: 100%;
+}
+
+#header {
+	background: #838283;
+	height: 10%;
+	width: 100%;	
+}
+
+#utilityPane {
+	background: blue;
+	height: 40%;	
+	width: 30% ;
+    float:right
+}
+
+#menu {
+	background: #333333;
+	float: left;	
+	height: 73%;
+	width: 20%;
+}
+ 
+#content {
+	background: #d2d0d2;	
+	float:left;
+	height: 100%;	
+	width: 60%;
+}
+
+#footer {
+	background: #838283;
+	height: 10%;
+	width: 100%;
+}
+
+#clearAll {
+
+    clear:both;
+
+}
